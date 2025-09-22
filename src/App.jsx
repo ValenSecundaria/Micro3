@@ -6,7 +6,7 @@ import "./index.css";
 
 const App = () => (
   <div className="container">
-     <MiCompPolitica />
+     <MiCompCultura />
   </div>
 );
 ReactDOM.render(<App />, document.getElementById("app"));
